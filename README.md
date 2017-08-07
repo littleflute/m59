@@ -1,4 +1,4 @@
-### [v0.0.5](https://github.com/littleflute/m59/edit/master/README.md)
+### [v0.0.6](https://github.com/littleflute/m59/edit/master/README.md)
 ### [173](173)
 ### [174](174)
 ### [175](175)
@@ -7,3 +7,6 @@
 ### [179](179)
 ### [180](180)
 ### [181](181)
+### [182](182)
+### [184](184)
+### [185](185)
